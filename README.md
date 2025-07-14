@@ -32,16 +32,13 @@ Email Me 👉 ✉️ **Rupalixforensics@gmail.com** For Collaboration/Project or
 <!-- Typing Intro with AI/ML Vibe --> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rupali+shukla;Forensics+Expert+%7C+Cloud+Forensics;Building+DFIR+Lab;Forensics+Expert+from+India" alt="Typing SVG" /> </div> <!-- Profile Views --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=buildwithrupali&label=Profile+Views&color=blueviolet&style=plastic" alt="Profile Views" /> </p> <!-- GitHub Trophies --> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=buildwithrupali&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> </div>
 
 🚀 About Me:
-🔭 Building Now:
+🔭 Currently building:
 A platform connecting tech beginners with senior mentors,Incident Response templates and SOPs for quick deployment Personal DFIR Lab setup with open-source tools.
 
-🌱 Currently Learning:
+🌱 Presently Studying:
 Expanding skills in AI, Machine Learning, Network Forensics , PCAP Analysis  DFIR Automation & Python Scripting 
 
-🧠 AI/ML Enthusiast:
-Passionate about developing AI-driven web applications and exploring the world of deep learning in to digital forensics .
-
-🤖 Diving into:
+🤖 Going inside:
 Computer Vision, Natural Language Processing (NLP), and Model Optimization for real-world AI applications.
 
 💼 Portfolio:
